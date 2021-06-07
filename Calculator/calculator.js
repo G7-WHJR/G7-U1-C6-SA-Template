@@ -12,6 +12,9 @@ function add() {
     // display the result in an HTML element with id "answer" 
     document.getElementById("answer").innerHTML=result;
 }
+function subtract(){
+    
+}
 
     
     
